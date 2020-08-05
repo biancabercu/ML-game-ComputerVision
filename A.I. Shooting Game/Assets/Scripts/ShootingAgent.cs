@@ -17,6 +17,7 @@ public class ShootingAgent : Agent
     public int damage = 100;
 
     public Projectile projectile;
+    // public Flower01 flower01;
     public EnemyManager enemyManager;
     
     private bool ShotAvaliable = true;

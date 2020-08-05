@@ -59,73 +59,73 @@
      <Compile Include="Assets\ML-Agents\Editor\Tests\StandaloneBuildTest.cs" />
      <Compile Include="Assets\Cartoon Heroes\Scripts\SetCharacter\Editor\SetCharacterEditor.cs" />
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Barracuda.MacBLAS">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Barracuda.MacBLAS.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Barracuda.MacBLAS.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Barracuda.Editor">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Barracuda.Editor.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Barracuda.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst.Editor">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Barracuda">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Barracuda.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Barracuda.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Barracuda.iOSBLAS">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Barracuda.iOSBLAS.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Barracuda.iOSBLAS.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ML-Agents.CommunicatorObjects">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.ML-Agents.CommunicatorObjects.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.ML-Agents.CommunicatorObjects.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Barracuda.BurstBLAS">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Barracuda.BurstBLAS.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Barracuda.BurstBLAS.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ML-Agents.Editor">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.ML-Agents.Editor.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.ML-Agents.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ML-Agents">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/Unity.ML-Agents.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/Unity.ML-Agents.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -326,25 +326,25 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.0f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Google.Protobuf">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/PackageCache/com.unity.barracuda@0.7.1-preview/Barracuda/Runtime/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/PackageCache/com.unity.barracuda@0.7.1-preview/Barracuda/Runtime/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst.Unsafe">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/PackageCache/com.unity.burst@1.2.3/Unity.Burst.Unsafe.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/PackageCache/com.unity.burst@1.2.3/Unity.Burst.Unsafe.dll</HintPath>
  </Reference>
  <Reference Include="System.IO.Abstractions">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/PackageCache/com.unity.ml-agents@1.0.2-preview/Plugins/System.IO.Abstractions.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/PackageCache/com.unity.ml-agents@1.0.2-preview/Plugins/System.IO.Abstractions.dll</HintPath>
  </Reference>
  <Reference Include="System.IO.Abstractions.TestingHelpers">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/PackageCache/com.unity.ml-agents@1.0.2-preview/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/PackageCache/com.unity.ml-agents@1.0.2-preview/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
  </Reference>
  <Reference Include="Grpc.Core">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/PackageCache/com.unity.ml-agents@1.0.2-preview/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/PackageCache/com.unity.ml-agents@1.0.2-preview/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
  </Reference>
  <Reference Include="System.Interactive.Async">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/PackageCache/com.unity.ml-agents@1.0.2-preview/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/PackageCache/com.unity.ml-agents@1.0.2-preview/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>D:/GitHub proj/A.I.-Shooting-Game-ML-Agents-Unity-Example/A.I. Shooting Game/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>D:/GitHub proj/ML-game-ComputerVision/A.I. Shooting Game/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.0f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
