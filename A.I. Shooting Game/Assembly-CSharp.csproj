@@ -78,6 +78,7 @@
      <Compile Include="Assets\ML-Agents\Examples\FoodCollector\Scripts\FoodCollectorAgent.cs" />
      <Compile Include="Assets\ML-Agents\Examples\GridWorld\Scripts\GridArea.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+     <Compile Include="Assets\amusedART\Mushroom_Monster\Script\MushroomMon_Ani_Test.cs" />
      <Compile Include="Assets\ML-Agents\Examples\WallJump\Scripts\WallJumpAgent.cs" />
      <Compile Include="Assets\ML-Agents\Examples\Soccer\Scripts\SoccerBallController.cs" />
      <Compile Include="Assets\ML-Agents\Examples\Tennis\Scripts\HitWall.cs" />
