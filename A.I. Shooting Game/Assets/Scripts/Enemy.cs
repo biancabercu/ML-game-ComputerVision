@@ -24,15 +24,16 @@ public class Enemy : MonoBehaviour
     public ShootingAgent Agent;
     private NavMeshAgent navAgent;
     
-    private void Start()
+  private void Start()
     {
         StartPosition = transform.position;
         CurrentHealth = startingHealth;
         
+	     NavMeshHit closestHit;
         EnvironmentParameters = Academy.Instance.EnvironmentParameters;
         speed = EnvironmentParameters.GetWithDefault("zombieSpeed", 1f);
-        
-        navAgent = GetComponent<NavMeshAgent>();
+       
+		navAgent = GetComponent<NavMeshAgent>();
         navAgent.speed = speed;
 
         Agent.OnEnvironmentReset += Respawn;
@@ -40,8 +41,8 @@ public class Enemy : MonoBehaviour
 
     private void FixedUpdate()
     {
-        navAgent.destination = Agent.transform.position;
-        //transform.position = Vector3.MoveTowards(transform.position, Agent.transform.position, Time.fixedDeltaTime * speed);
+        //navAgent.destination = Agent.transform.position;
+        transform.position = Vector3.MoveTowards(transform.position, Agent.transform.position, Time.fixedDeltaTime * speed);
     }
 
     public void GetShot(int damage, ShootingAgent shooter)
